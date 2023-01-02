@@ -1,4 +1,3 @@
-# .github
 # General info
 This Github organisation is for EmLogic internal and external projects. 
 
